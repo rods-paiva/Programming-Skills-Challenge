@@ -1,5 +1,5 @@
 #!/bin/bash
-## Problem 2
+## Problem 1
 bq
 rel ABC
 di 
